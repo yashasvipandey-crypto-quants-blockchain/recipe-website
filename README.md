@@ -4,7 +4,7 @@
 https://yashasvipandey-crypto-quants-blockchain.github.io/recipe-website/
 
 ## 📂 GitHub Repository
-https://yashasvipandey-crypto-quants-blockchain.github.io/recipe-website/
+https://github.com/yashasvipandey-crypto-quants-blockchain/recipe-website
 
 
 ## 📌 Features
